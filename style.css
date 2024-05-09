@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#cookie-container {
+    margin: 20px;
+}
+
+#cookie {
+    font-size: 5em;
+    padding: 10px;
+}
+
+#upgrades {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 1.2em;
+    padding: 10px;
+}
